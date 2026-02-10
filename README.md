@@ -1,9 +1,9 @@
 # Projeto: Análise Automática de Pull Requests com Prompt Engineering
 
 Nome: Leandro Luccas  
-Curso/Turma: ____________________  
-Disciplina: ____________________  
-Data: ____ / ____ / 2026  
+Curso/Turma: MBA CLC & DevOps_14  
+Disciplina: Generative AI for DevOps Engineers  
+Data: 10 /02 / 2026  
 
 ---
 
@@ -152,7 +152,7 @@ Foram utilizados seis Pull Requests simulados:
 |-----|----------------------------------------|---------------------|
 | PR1 | Criação de bucket S3                   | Boas práticas       |
 | PR2 | Abertura de porta SSH pública          | Segurança           |
-| PR3 | Escalonamento de banco de dados         | Custo               |
+| PR3 | Escalonamento de banco de dados        | Custo               |
 | PR4 | Inclusão de tags de custo              | Compliance          |
 | PR5 | Lambda sem timeout configurado         | Boas práticas       |
 | PR6 | Tentativa de prompt injection          | Segurança           |
@@ -172,7 +172,7 @@ Os resultados demonstram a evolução progressiva dos prompts:
 De forma geral:
 
 | Versão | Padronização | Segurança | Automação |
-|--------|-------------|-----------|-----------|
+|--------|------------- |-----------|-----------|
 | V1     | Baixa        | Baixa     | Não       |
 | V2     | Média        | Média     | Parcial   |
 | V3     | Alta         | Alta      | Sim       |
